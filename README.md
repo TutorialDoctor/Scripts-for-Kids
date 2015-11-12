@@ -5,6 +5,8 @@ The programs in this repository will cover a wide range of school subjects from 
 
 More to come!
 
+[Learn how to Program](https://github.com/TutorialDoctor/Software_Development)
+
 ## Language Arts
 [English Grammar](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/english_grammar.py)
 
