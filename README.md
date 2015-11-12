@@ -3,6 +3,8 @@ A collection of sample scripts in various programming languages to demonstrate p
 
 The programs in this repository will cover a wide range of school subjects from math to language arts. 
 
+More to come!
+
 ## Language Arts
 [English Grammar](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/english_grammar.py)
 
