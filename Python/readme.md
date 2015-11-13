@@ -1,1 +1,3 @@
-Python scripts for teaching kids programming concepts.
+# Scripts in Python
+
+
