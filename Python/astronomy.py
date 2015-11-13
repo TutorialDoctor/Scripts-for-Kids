@@ -1,5 +1,5 @@
 # If your head is in the clouds, good! 
-# This program allows you to get various properties of planets in the solar sytem
+# This program allows you to get various properties of planets in the solar system
 
 
 # This data was pulled offline
