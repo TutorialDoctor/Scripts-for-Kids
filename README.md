@@ -18,4 +18,4 @@ Learn how to program [here](https://github.com/TutorialDoctor/Software_Developme
 
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
 
-*This repo will be updated for clarity. If anything is confusing or too complicated, let me know by opening an issue.
+*This repo will be updated for clarity. If anything is confusing or too complicated, let me know by opening an issue.*
