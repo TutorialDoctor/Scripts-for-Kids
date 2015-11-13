@@ -17,3 +17,5 @@ Learn how to program [here](https://github.com/TutorialDoctor/Software_Developme
 ## Social Studies
 
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
+
+*This repo will be updated for clarity. If anything is confusing or too complicated, let me know.*
