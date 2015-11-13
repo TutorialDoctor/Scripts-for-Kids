@@ -40,14 +40,12 @@ radius_of_my_head = None
 planet_to_head_ratio = None
 
 # We need to know what units we will use
-#Character
 abbr = '(km)' 
 km = 'kilometers'
 
 
 # Dictionaries or Associative arrays can store different types of variables within one variable.
 # They are used for inventories in video games. We are just storing the data I saw in the internet.
-
 mercury = {'name':'Mercury','radius':2440,'units':km,'abbr':abbr}
 venus = {'name':'Venus','radius':6052,'units':km,'abbr':abbr}
 earth = {'name':'Earth','radius':6378,'units':km,'abbr':abbr}
@@ -60,6 +58,7 @@ pluto = {'name':'Pluto','radius':1150,'units':km,'abbr':abbr}
 
 sun = {'name':'Sun','radius':695000,'units':km,'abbr':abbr}
 moon = {'name':'Moon','radius':1738,'units':km,'abbr':abbr}
+
 
 # A little note on how to add new things to a dictionary
 #Add to dictionary
@@ -88,17 +87,17 @@ Calculate_Area(mercury)
 Calculate_Area(planet[8])
 Calculate_Area(earth)
 
-# Getting the radius of the planet using another formula:
+# Getting the radius of the planet using another formula I looked up on google and returning it
 def Get_Radius(planet_arg):
 	print 'The radius of ' + planet_arg['name'] + ' is ' + str(planet_arg['radius']) + ' ' + planet_arg['units'] + planet_arg['abbr']
 	return planet_arg['radius']
 
-# We can set the mass
+# We can return the mass of something given it's coefficient and power
 def Set_Mass(coefficient,power):
 	mass = str(coefficient) + 'e' + str(power)
 	return mass
 	
-# And get the mass
+# And we can get the mass or a particular planet
 def Get_Mass(planet_arg):
 	print 'The mass of ' + planet_arg['name'] + ' is ' + planet_arg['mass']
 	return planet_arg['mass']
@@ -118,6 +117,12 @@ pluto['mass']= Set_Mass(1.27,22)
 # And we can get their radii 
 Get_Radius(pluto)
 Get_Radius(sun)
+
+# Or their mass
 Get_Mass(earth)
+
+# Get the mass and radius of other planets!
+# Create your own planet, and set it's mass and radius. Give it a cool name though!
+
 
 
