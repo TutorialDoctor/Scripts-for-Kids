@@ -11,7 +11,7 @@ Learn how to program [here](https://github.com/TutorialDoctor/Software_Developme
 [English Grammar](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/english_grammar.py)
 
 ## Science
-
+[Astronomy](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/astronomy.py)
 ## Math
 
 ## Social Studies
