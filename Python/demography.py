@@ -164,7 +164,7 @@ print
 print dir()
 print
 print dir(Man)
-#Delet and set attributes
+#Delete and set attributes
 #delattr(object,'name')
 #setattr(object,'name',value)
 """
