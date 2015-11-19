@@ -12,6 +12,7 @@ Learn how to program [here](https://github.com/TutorialDoctor/Software_Developme
 
 ## Science
 [Astronomy](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/astronomy.py)
+[Ecology](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/ecology.py)
 
 ## Math
 [Basic Math](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/math_basic.py)
