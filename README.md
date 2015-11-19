@@ -22,3 +22,6 @@ Learn how to program [here](https://github.com/TutorialDoctor/Software_Developme
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
 
 *This repo will be updated for clarity. If anything is confusing or too complicated, let me know by opening an issue.*
+
+## Cooking
+- [Velveeta Recipe](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/velveeta.py)
