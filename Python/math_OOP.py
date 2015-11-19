@@ -56,3 +56,5 @@ Molly.define('kamira')
 Molly.define('door')
 Molly.define('door')
 print Molly.words
+
+# Create a class for the LagnaugeGenius. Think of some homework subjects that your Language genius could do for you and then implement those functions and variables in your class.
