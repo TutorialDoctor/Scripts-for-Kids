@@ -8,14 +8,14 @@ More to come!
 Learn how to program [here](https://github.com/TutorialDoctor/Software_Development)
 
 ## Language Arts
-[English Grammar](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/english_grammar.py)
+- [English Grammar](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/english_grammar.py)
 
 ## Science
-[Astronomy](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/astronomy.py)
-[Ecology](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/ecology.py)
+- [Astronomy](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/astronomy.py)
+- [Ecology](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/ecology.py)
 
 ## Math
-[Basic Math](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/math_basic.py)
+- [Basic Math](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/math_basic.py)
 
 ## Social Studies
 
