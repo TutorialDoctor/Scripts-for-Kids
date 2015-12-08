@@ -13,6 +13,7 @@ Learn programming basics [here](https://github.com/TutorialDoctor/Software_Devel
 - [Astronomy](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/astronomy.py)
 - [Ecology](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/ecology.py)
 - [Basic Math](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/math_basic.py)
+- [Cooking](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/velveeta.py)
 
 Find more [here](https://github.com/TutorialDoctor/Scripts-for-Kids/tree/master/Python)
 
@@ -20,5 +21,3 @@ Find more [here](https://github.com/TutorialDoctor/Scripts-for-Kids/tree/master/
 
 *This repo will be updated for clarity. If anything is confusing or too complicated, let me know by opening an issue.*
 
-## Cooking
-- [Velveeta Recipe](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/velveeta.py)
