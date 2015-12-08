@@ -5,19 +5,22 @@ The programs in this repository will cover a wide range of school subjects from 
 
 More to come!
 
-Learn how to program [here](https://github.com/TutorialDoctor/Software_Development)
+Learn programming basics [here](https://github.com/TutorialDoctor/Software_Development)
 
-## Language Arts
+## A few examples of what is covered:
+
+### Language Arts
 - [English Grammar](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/english_grammar.py)
 
-## Science
+### Science
 - [Astronomy](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/astronomy.py)
 - [Ecology](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/ecology.py)
 
-## Math
+### Math
 - [Basic Math](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/math_basic.py)
 
-## Social Studies
+### Social Studies
+- Comming...
 
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
 
