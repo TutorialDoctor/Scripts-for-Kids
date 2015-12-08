@@ -9,18 +9,12 @@ Learn programming basics [here](https://github.com/TutorialDoctor/Software_Devel
 
 ## A few examples of what is covered:
 
-### Language Arts
 - [English Grammar](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/english_grammar.py)
-
-### Science
 - [Astronomy](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/astronomy.py)
 - [Ecology](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/ecology.py)
-
-### Math
 - [Basic Math](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/math_basic.py)
 
-### Social Studies
-- Comming...
+Find more [here](https://github.com/TutorialDoctor/Scripts-for-Kids/tree/master/Python)
 
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
 
