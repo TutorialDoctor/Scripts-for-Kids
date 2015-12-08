@@ -6,4 +6,4 @@
 - You can also do math using OOP(**Object-Oriented-Programming**). Check [it](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/math_OOP.py) out.
 - [Demography](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/demography.py) is the study of human population. Check out how to explore this using OOP in Python.
 - Interested in how organisms are related? Then explore and expand upon this [Ecology](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/ecology.py) script.
-- When making 3d video games, vector math is very helpful. Simulate the [dot and cross product]() with Python!
+- When making 3d video games, vector math is very helpful. Simulate the [dot and cross product](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/dotAndCross.py) with Python!
