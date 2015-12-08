@@ -3,8 +3,6 @@ A collection of sample scripts in various programming languages to demonstrate p
 
 The programs in this repository will cover a wide range of school subjects from math to language arts. 
 
-More to come!
-
 Learn programming basics [here](https://github.com/TutorialDoctor/Software_Development)
 
 ## A few examples of what is covered:
