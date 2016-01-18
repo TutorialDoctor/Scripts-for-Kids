@@ -51,13 +51,13 @@ def vecDiff(A,B):
 	return diff
 
 def vecSum(A,B):
-	diff = []
+	sum = []
 	for x in range(3):
-		diff.append(A[x]+B[x])
-	return diff
+		sum.append(A[x]+B[x])
+	return sum
 
 def vecProduct(A,B):
-	diff = []
+	prod = []
 	for x in range(3):
-		diff.append(A[x]*B[x])
-	return diff
+		prod.append(A[x]*B[x])
+	return prod
