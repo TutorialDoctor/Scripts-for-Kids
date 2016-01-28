@@ -8,3 +8,4 @@
 - Interested in how organisms are related? Then explore and expand upon this [Ecology](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/ecology.py) script.
 - When making 3d video games, vector math is very helpful. Simulate the [dot and cross product](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/dotAndCross.py) with Python!
 - Put notebooks/files into a zipped backpack/zip archive with this [schoobag script](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/schoolbag.py).
+- If only computers could [cook](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/velveeta.py) for us.
