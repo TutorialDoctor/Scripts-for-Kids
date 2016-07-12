@@ -9,3 +9,5 @@
 - When making 3d video games, vector math is very helpful. Simulate the [dot and cross product](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/dotAndCross.py) with Python!
 - Put notebooks/files into a zipped backpack/zip archive with this [schoolbag script](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/schoolbag.py).
 - If only computers could [cook](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/velveeta.py) for us.
+
+[Learn the basics](https://github.com/TutorialDoctor/Software_Development) of programming.
