@@ -38,24 +38,24 @@ class LanguageGenius():
 			print "'"+word+"'" + " Already defined"
 
 
-Silas = MathGenius('Silas',13)
-Silas.add(2,4)
-Silas.subtract(9292,323)
-Silas.multiply(3243,333)
-Silas.divide(2333,43)
+silas = MathGenius('Silas',13)
+silas.add(2,4)
+silas.subtract(9292,323)
+silas.multiply(3243,333)
+silas.divide(2333,43)
 
-print Silas.name
-print Silas.age
-Silas.school='ieie'
-print Silas.school
-print Silas.bigger(100,101)
+print silas.name
+print silas.age
+silas.school='ieie'
+print silas.school
+print silas.bigger(100,101)
 
-Molly = LanguageGenius('Moll')
-Molly.backwards('Hello')
-Molly.define('kamira')
-Molly.define('door')
-Molly.define('door')
-print Molly.words
+molly = LanguageGenius('Moll')
+solly.backwards('Hello')
+molly.define('kamira')
+molly.define('door')
+molly.define('door')
+print molly.words
 
 # Create a class for the LagnaugeGenius. Think of some homework subjects that your Language genius could do for you.
 # Implement the necessary functions and variables in your class.
