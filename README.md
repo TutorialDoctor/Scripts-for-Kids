@@ -1,4 +1,4 @@
-# Scripts-for-Kids
+# Scripts-for-Kids (Python 2)
 A collection of sample scripts in various programming languages to demonstrate programming concepts at a rudimentary level.
 
 The programs in this repository will cover a wide range of school subjects from math to language arts. 
