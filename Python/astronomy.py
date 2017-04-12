@@ -75,12 +75,12 @@ body = [sun,moon]
 # This function calculates the area of the planet using the formula for the area of a sphere (had to look it up)
 def Calculate_Area(planet_arg):
 	area = 4 *(pie * math.pow(planet_arg['radius'],2))
-	print 'The area of ' + planet_arg['name'] + ' is ' + str(area) + ' ' + planet_arg['units'] + planet_arg['abbr']
+	print ('The area of ' + planet_arg['name'] + ' is ' + str(area) + ' ' + planet_arg['units'] + planet_arg['abbr'])
 	return area
 
 
-print "Lesson " + str(lesson_number)
-print title
+print ("Lesson " + str(lesson_number))
+print (title)
 
 # Using the Calculate_Area() function:
 Calculate_Area(mercury)
@@ -89,7 +89,7 @@ Calculate_Area(earth)
 
 # Getting the radius of the planet using another formula I looked up on google and returning it
 def Get_Radius(planet_arg):
-	print 'The radius of ' + planet_arg['name'] + ' is ' + str(planet_arg['radius']) + ' ' + planet_arg['units'] + planet_arg['abbr']
+	print ('The radius of ' + planet_arg['name'] + ' is ' + str(planet_arg['radius']) + ' ' + planet_arg['units'] + planet_arg['abbr'])
 	return planet_arg['radius']
 
 # We can return the mass of something given it's coefficient and power
@@ -99,7 +99,7 @@ def Set_Mass(coefficient,power):
 	
 # And we can get the mass or a particular planet
 def Get_Mass(planet_arg):
-	print 'The mass of ' + planet_arg['name'] + ' is ' + planet_arg['mass']
+	print ('The mass of ' + planet_arg['name'] + ' is ' + planet_arg['mass'])
 	return planet_arg['mass']
 	
 
@@ -123,6 +123,3 @@ Get_Mass(earth)
 
 # Get the mass and radius of other planets!
 # Create your own planet, and set it's mass and radius. Give it a cool name though!
-
-
-
