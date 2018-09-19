@@ -19,3 +19,6 @@ Find more [here](https://github.com/TutorialDoctor/Scripts-for-Kids/tree/master/
 
 *This repo will be updated for clarity. If anything is confusing or too complicated, let me know by opening an issue.*
 
+## Extras
+
+[Math as Code](https://github.com/Jam3/math-as-code) - Amazing Repo showing things like sigma notation as code.
