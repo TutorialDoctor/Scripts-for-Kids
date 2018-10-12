@@ -122,4 +122,4 @@ Get_Radius(sun)
 Get_Mass(earth)
 
 # Get the mass and radius of other planets!
-# Create your own planet, and set it's mass and radius. Give it a cool name though!
+# Create your own planet, and set its mass and radius. Give it a cool name though!
